@@ -1,0 +1,15 @@
+To create a new brick navigate to 'File' in the menu bar and select 'Create New Brick'
+To save the current brick image navigate to 'File' in the menu bar and select 'Save Brick Image'
+To save the current brick data navigate to 'File' in the menu bar and select 'Save Brick Data'
+To save the current canvas data navigate to 'File' in the menu bar and select 'Save Canvas Data'
+The screenshot of the canvas can be captured by navigating to 'Tools' in the menu bar and selecting 'Capture Canvas Screenshot'
+You can undo your previous operation by selecting 'Undo' option in the Edit tab.
+To clear the entire canvas navigate to 'Edit' in the menu bar and select 'Clear'
+To edit the dimensions of the current brick navigate to 'Edit' in the menu bar and select 'Edit Dimensions'
+To display the current brick image navigate to 'Tools' in the menu bar and select 'Display Brick Image'
+Free hand molecular canvas can be selected by navigating to 'Tools' in the menu bar and selecting 'Free Hand Molecular Canvas'
+Demo of the software DNA Pen can be viewed by navigating to 'Help' in the menu bar and selecting 'Product Demo'
+You can give your feedback by navigating to 'Help' in the menu bar and selecting 'Product Feedback'
+User Manual of the software DNA Pen can be accessed by navigating to 'Help' in the menu bar and selecting 'User Manual'
+
+
