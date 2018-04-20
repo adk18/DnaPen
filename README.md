@@ -1,7 +1,12 @@
 # DnaPen
 
+## Added GUI
 
-## Implemented Classes
+2 new tabs have been added to the GUI of the software (implementation in MainFrame.java). The first tabs if for importing image onto the canvas called 'Import Free Image' and second tab is for importing image onto the grid called 'Import Grid Image'. 
+
+## Additional Implemented Classes
+
+The following additional classes were implemeted in order to automate the image creation part of the software:
 
 1. NewFreeImportImageListener
 
