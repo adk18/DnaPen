@@ -32,5 +32,5 @@ This class is responsible for importing, processing and rendering of image on th
 
 This class applies ZhangSuenThinning algorithm to a binary image and does image thinning. Currently this feature is disabled. 
 
-For the original source code: http://www.guptalab.org/dnapen/downloads.htm
+For the original source code and installation links: http://www.guptalab.org/dnapen/downloads.htm
 For demonstration of the add-on features refer to this video link: https://www.youtube.com/watch?v=vih5xYzo01A
